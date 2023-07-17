@@ -1,6 +1,6 @@
 # Andtech Studios
 
-*Game development software company*
+*Game dev and productivity software*
 
 We make free, open-source, and paid software for game developers.
 
